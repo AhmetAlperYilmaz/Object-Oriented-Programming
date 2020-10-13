@@ -1,0 +1,10 @@
+new array of capacity=5 has been created
+bark bark
+
+meow meow
+
+bark bark
+
+meow meow
+
+a dynamic array has been destroyed

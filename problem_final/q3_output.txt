@@ -1,0 +1,16 @@
+new array of capacity=5 has been created
+new array of capacity=5 has been created
+REX
+Smokey
+meow meow
+new array of capacity=5 has been created
+new array of capacity=5 has been created
+new array of capacity=5 has been created
+array resized 2
+a dynamic array has been destroyed
+array resized 2
+a dynamic array has been destroyed
+array resized 2
+a dynamic array has been destroyed
+a dynamic array has been destroyed
+a dynamic array has been destroyed

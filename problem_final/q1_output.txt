@@ -1,0 +1,21 @@
+new array of capacity=5 has been created
+array size=1 array capacity=5
+array resized 2
+5
+array size=0 array capacity=2
+array resized 4
+array resized 8
+array resized 16
+array resized 32
+array resized 64
+array resized 128
+array size=65 array capacity=128
+array resized 64
+array resized 32
+array size=19 array capacity=32
+new array of capacity=5 has been created
+array resized 10
+array resized 20
+array size=20 array capacity=20
+a dynamic array has been destroyed
+a dynamic array has been destroyed
