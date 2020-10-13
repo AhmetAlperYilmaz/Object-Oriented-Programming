@@ -4,7 +4,7 @@
 #include <fstream>
 using namespace std;
 
-// Ahmet Alper Yılmaz --- 150180037 --- g++ 150180037.cpp -o 150180037 --- ./150180037 input1.txt
+// Ahmet Alper Yılmaz --- g++ main.cpp -o main --- ./main input1.txt
 
 class Neuron{
 	protected:
