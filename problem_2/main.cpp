@@ -1,6 +1,6 @@
 #include <iostream>
 
-/* Ahmet Alper Yılmaz 150180037 
+/* Ahmet Alper Yılmaz
    g++ main.cpp -o main */
 
 // Classes
