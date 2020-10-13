@@ -4,8 +4,7 @@
 
 using namespace std;
 
-/*	Ahmet Alper Yılmaz 150180037
-	compile and linking: g++ 150180037.cpp -o 150180037
+/*	Ahmet Alper Yılmaz
 */
 
 void Drink::drinkinsert(string thedrink, Drink * drinklist){ // inserting drink to the drinklist
